@@ -66,7 +66,7 @@ Predicted Job Role:
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try the Resume Job Matcher]([[https://<your-app-name>.streamlit.app](https://resume-job-matcher13.streamlit.app/)](https://resume-job-matcher13.streamlit.app/))
+🔗 [Click here to try the Resume Job Matcher]([[https://resume-job-matcher13.streamlit.app>.streamlit.app](https://resume-job-matcher13.streamlit.app/)](https://resume-job-matcher13.streamlit.app/))
 
 ---
 
